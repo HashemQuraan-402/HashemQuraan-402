@@ -27,7 +27,7 @@ Software Engineering graduate from Jordan University of Science and Technology, 
 | [Store Management System](https://github.com/HashemQuraan-402/store-management-system) | Role-based warehouse, inventory, supply-document, and reporting system | ASP.NET Core, Angular, SQL Server |
 | [Contact Management System](https://github.com/HashemQuraan-402/contact-management-system) | Full-stack contact manager with reactive forms, validation, and CRUD operations | ASP.NET Core, Angular, SQL Server |
 | [FitZone Database System](https://github.com/HashemQuraan-402/fitzone-database-system) | Gym-management database with analytics, procedures, triggers, roles, and auditing | PostgreSQL, SQL, PL/pgSQL |
-| [Azkar Desktop App](https://github.com/HashemQuraan-402/azkar-desktop-app) | Arabic desktop application for Adhkar, Tasbeeh, progress tracking, and session history | C#, Windows Forms |
+| [Vidly — Django Movie Catalog](https://github.com/HashemQuraan-402/vidly-django-movie-catalog) | Movie catalog with server-rendered pages, Django administration, relational data, and a REST-style API | Python, Django, SQLite |
 | [Job Portal Front-End Demo](https://github.com/HashemQuraan-402/job-portal-frontend-demo) | Responsive and accessible multi-page job portal | HTML, CSS, JavaScript |
 
 ## Live Projects
